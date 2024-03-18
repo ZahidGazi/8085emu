@@ -41,7 +41,7 @@ window.addEventListener('keydown', function(e) {
 		case 82:if(e.altKey)
 					document.getElementById('button-RES').click();
 				break;
-		case 73:if(e.altKey)
+		case 107:if(e.altKey)
 					document.getElementById('button-INR').click();
 				break;
 		case 79:if(e.altKey)
@@ -53,7 +53,7 @@ window.addEventListener('keydown', function(e) {
 		case 83:if(e.altKey)
 					document.getElementById('button-SET').click();
 				break;
-		case 67:if(e.altKey)
+		case 109:if(e.altKey)
 					document.getElementById('button-DCR').click();
 				break;
 		case 88:if(e.altKey)
